@@ -1,379 +1,299 @@
 {
-    "items": [
+  "items": [
+    {
+      "items": [],
+      "text": "欢迎来到IdentityServer4",
+      "path": "/欢迎来到IdentityServer4.md"
+    },
+    {
+      "items": [
         {
-            "items": [
-                {
-                    "items": [],
-                    "text": "hooks"
-                },
-                {
-                    "items": [],
-                    "text": "info"
-                },
-                {
-                    "items": [
-                        {
-                            "items": [
-                                {
-                                    "items": [],
-                                    "text": "heads"
-                                },
-                                {
-                                    "items": [
-                                        {
-                                            "items": [],
-                                            "text": "origin"
-                                        }
-                                    ],
-                                    "text": "remotes"
-                                }
-                            ],
-                            "text": "refs"
-                        }
-                    ],
-                    "text": "logs"
-                },
-                {
-                    "items": [
-                        {
-                            "items": [],
-                            "text": "info"
-                        },
-                        {
-                            "items": [],
-                            "text": "pack"
-                        }
-                    ],
-                    "text": "objects"
-                },
-                {
-                    "items": [
-                        {
-                            "items": [],
-                            "text": "heads"
-                        },
-                        {
-                            "items": [
-                                {
-                                    "items": [],
-                                    "text": "origin"
-                                }
-                            ],
-                            "text": "remotes"
-                        },
-                        {
-                            "items": [],
-                            "text": "tags"
-                        }
-                    ],
-                    "text": "refs"
-                }
-            ],
-            "text": ".git"
+          "items": [],
+          "text": "第1章 背景",
+          "path": "/第一部分 简介/第1章 背景.md"
         },
         {
-            "items": [],
-            "text": ".vscode"
+          "items": [],
+          "text": "第2章 术语",
+          "path": "/第一部分 简介/第2章 术语.md"
         },
         {
-            "items": [],
-            "text": "README",
-            "path": "/README.md"
+          "items": [],
+          "text": "第3章 支持和规范",
+          "path": "/第一部分 简介/第3章 支持和规范.md"
         },
         {
-            "items": [],
-            "text": "欢迎来到IdentityServer4",
-            "path": "/欢迎来到IdentityServer4.md"
+          "items": [],
+          "text": "第4章 打包和构建",
+          "path": "/第一部分 简介/第4章 打包和构建.md"
         },
         {
-            "items": [
-                {
-                    "items": [],
-                    "text": "第1章 背景",
-                    "path": "/第一部分 简介/第1章 背景.md"
-                },
-                {
-                    "items": [],
-                    "text": "第2章 术语",
-                    "path": "/第一部分 简介/第2章 术语.md"
-                },
-                {
-                    "items": [],
-                    "text": "第3章 支持和规范",
-                    "path": "/第一部分 简介/第3章 支持和规范.md"
-                },
-                {
-                    "items": [],
-                    "text": "第4章 打包和构建",
-                    "path": "/第一部分 简介/第4章 打包和构建.md"
-                },
-                {
-                    "items": [],
-                    "text": "第5章 支持和咨询选项",
-                    "path": "/第一部分 简介/第5章 支持和咨询选项.md"
-                },
-                {
-                    "items": [],
-                    "text": "第6章 演示服务器和测试",
-                    "path": "/第一部分 简介/第6章 演示服务器和测试.md"
-                },
-                {
-                    "items": [],
-                    "text": "第7章 贡献",
-                    "path": "/第一部分 简介/第7章 贡献.md"
-                }
-            ],
-            "text": "第一部分 简介"
+          "items": [],
+          "text": "第5章 支持和咨询选项",
+          "path": "/第一部分 简介/第5章 支持和咨询选项.md"
         },
         {
-            "items": [
-                {
-                    "items": [],
-                    "text": "第18 章 启动",
-                    "path": "/第三部分 主题/第18 章 启动.md"
-                },
-                {
-                    "items": [],
-                    "text": "第19章 定义资源",
-                    "path": "/第三部分 主题/第19章 定义资源.md"
-                },
-                {
-                    "items": [],
-                    "text": "第20章 定义客户端",
-                    "path": "/第三部分 主题/第20章 定义客户端.md"
-                },
-                {
-                    "items": [],
-                    "text": "第21章 登录",
-                    "path": "/第三部分 主题/第21章 登录.md"
-                },
-                {
-                    "items": [],
-                    "text": "第22章 使用外部身份提供商登录",
-                    "path": "/第三部分 主题/第22章 使用外部身份提供商登录.md"
-                },
-                {
-                    "items": [],
-                    "text": "第23章 Windows身份验证",
-                    "path": "/第三部分 主题/第23章 Windows身份验证.md"
-                },
-                {
-                    "items": [],
-                    "text": "第24章 退出",
-                    "path": "/第三部分 主题/第24章 退出.md"
-                },
-                {
-                    "items": [],
-                    "text": "第25章 退出外部身份提供商",
-                    "path": "/第三部分 主题/第25章 退出外部身份提供商.md"
-                },
-                {
-                    "items": [],
-                    "text": "第26章 联合注销",
-                    "path": "/第三部分 主题/第26章 联合注销.md"
-                },
-                {
-                    "items": [],
-                    "text": "第27章 联合网关",
-                    "path": "/第三部分 主题/第27章 联合网关.md"
-                },
-                {
-                    "items": [],
-                    "text": "第28章 确认(Consent)",
-                    "path": "/第三部分 主题/第28章 确认(Consent).md"
-                },
-                {
-                    "items": [],
-                    "text": "第29章 保护API",
-                    "path": "/第三部分 主题/第29章 保护API.md"
-                },
-                {
-                    "items": [],
-                    "text": "第30章 部署",
-                    "path": "/第三部分 主题/第30章 部署.md"
-                },
-                {
-                    "items": [],
-                    "text": "第31章 日志",
-                    "path": "/第三部分 主题/第31章 日志.md"
-                },
-                {
-                    "items": [],
-                    "text": "第32章 事件",
-                    "path": "/第三部分 主题/第32章 事件.md"
-                },
-                {
-                    "items": [],
-                    "text": "第33章 密码学(Cryptography)，密钥(Keys)和HTTPS",
-                    "path": "/第三部分 主题/第33章 密码学(Cryptography)，密钥(Keys)和HTTPS.md"
-                },
-                {
-                    "items": [],
-                    "text": "第34章 授予类型",
-                    "path": "/第三部分 主题/第34章 授予类型.md"
-                },
-                {
-                    "items": [],
-                    "text": "第35章 秘密(secrets)",
-                    "path": "/第三部分 主题/第35章 秘密(secrets).md"
-                },
-                {
-                    "items": [],
-                    "text": "第36章 扩展授权",
-                    "path": "/第三部分 主题/第36章 扩展授权.md"
-                },
-                {
-                    "items": [],
-                    "text": "第37章 资源所有者密码验证(Resource Owner Password Validation)",
-                    "path": "/第三部分 主题/第37章 资源所有者密码验证(Resource Owner Password Validation).md"
-                },
-                {
-                    "items": [],
-                    "text": "第38章 刷新令牌",
-                    "path": "/第三部分 主题/第38章 刷新令牌.md"
-                },
-                {
-                    "items": [],
-                    "text": "第39章 引用令牌",
-                    "path": "/第三部分 主题/第39章 引用令牌.md"
-                },
-                {
-                    "items": [],
-                    "text": "第40章 自定义令牌请求验证和发布",
-                    "path": "/第三部分 主题/第40章 自定义令牌请求验证和发布.md"
-                },
-                {
-                    "items": [],
-                    "text": "第41章 CORS",
-                    "path": "/第三部分 主题/第41章 CORS.md"
-                },
-                {
-                    "items": [],
-                    "text": "第42章 发现(discovery)",
-                    "path": "/第三部分 主题/第42章 发现(discovery).md"
-                },
-                {
-                    "items": [],
-                    "text": "第43章 添加更多API端点",
-                    "path": "/第三部分 主题/第43章 添加更多API端点.md"
-                },
-                {
-                    "items": [],
-                    "text": "第44章 添加新协议",
-                    "path": "/第三部分 主题/第44章 添加新协议.md"
-                },
-                {
-                    "items": [],
-                    "text": "第45章 工具",
-                    "path": "/第三部分 主题/第45章 工具.md"
-                }
-            ],
-            "text": "第三部分 主题"
+          "items": [],
+          "text": "第6章 演示服务器和测试",
+          "path": "/第一部分 简介/第6章 演示服务器和测试.md"
         },
         {
-            "items": [
-                {
-                    "items": [],
-                    "text": "第10章 使用密码保护API",
-                    "path": "/第二部分 快速入门/第10章 使用密码保护API.md"
-                },
-                {
-                    "items": [],
-                    "text": "第11章 使用OpenID Connect添加用户身份验证",
-                    "path": "/第二部分 快速入门/第11章 使用OpenID Connect添加用户身份验证.md"
-                },
-                {
-                    "items": [],
-                    "text": "第12章 添加对外部认证的支持",
-                    "path": "/第二部分 快速入门/第12章 添加对外部认证的支持.md"
-                },
-                {
-                    "items": [],
-                    "text": "第13章 切换到混合流并添加API访问",
-                    "path": "/第二部分 快速入门/第13章 切换到混合流并添加API访问.md"
-                },
-                {
-                    "items": [],
-                    "text": "第14章 添加JavaScript客户端",
-                    "path": "/第二部分 快速入门/第14章 添加JavaScript客户端.md"
-                },
-                {
-                    "items": [],
-                    "text": "第15章 使用EntityFramework Core进行配置和操作数据",
-                    "path": "/第二部分 快速入门/第15章 使用EntityFramework Core进行配置和操作数据.md"
-                },
-                {
-                    "items": [],
-                    "text": "第16章 使用ASP.NET Core Identity",
-                    "path": "/第二部分 快速入门/第16章 使用ASP.NET Core Identity.md"
-                },
-                {
-                    "items": [],
-                    "text": "第17章 社区快速入门和模板",
-                    "path": "/第二部分 快速入门/第17章 社区快速入门和模板.md"
-                },
-                {
-                    "items": [],
-                    "text": "第8章 概述",
-                    "path": "/第二部分 快速入门/第8章 概述.md"
-                },
-                {
-                    "items": [],
-                    "text": "第9章 使用客户端凭据保护API",
-                    "path": "/第二部分 快速入门/第9章 使用客户端凭据保护API.md"
-                }
-            ],
-            "text": "第二部分 快速入门"
-        },
-        {
-            "items": [
-                {
-                    "items": [],
-                    "text": "第54章 身份资源",
-                    "path": "/第五部分 参考/第54章 身份资源.md"
-                },
-                {
-                    "items": [],
-                    "text": "第55章  API资源",
-                    "path": "/第五部分 参考/第55章  API资源.md"
-                },
-                {
-                    "items": [],
-                    "text": "第56章 Client",
-                    "path": "/第五部分 参考/第56章 Client.md"
-                },
-                {
-                    "items": [],
-                    "text": "第57章 GrantValidationResult",
-                    "path": "/第五部分 参考/第57章 GrantValidationResult.md"
-                },
-                {
-                    "items": [],
-                    "text": "第58章 Profile Service",
-                    "path": "/第五部分 参考/第58章 Profile Service.md"
-                },
-                {
-                    "items": [],
-                    "text": "第59章 IdentityServer交互服务",
-                    "path": "/第五部分 参考/第59章 IdentityServer交互服务.md"
-                },
-                {
-                    "items": [],
-                    "text": "第61章 IdentityServer Options",
-                    "path": "/第五部分 参考/第61章 IdentityServer Options.md"
-                }
-            ],
-            "text": "第五部分 参考"
-        },
-        {
-            "items": [
-                {
-                    "items": [],
-                    "text": "第53章 结束会话端点(End Session Endpoint)",
-                    "path": "/第四部分 端点/第53章 结束会话端点(End Session Endpoint).md"
-                }
-            ],
-            "text": "第四部分 端点"
+          "items": [],
+          "text": "第7章 贡献",
+          "path": "/第一部分 简介/第7章 贡献.md"
         }
-    ]
+      ],
+      "text": "第一部分 简介"
+    },
+    {
+      "items": [
+        {
+          "items": [],
+          "text": "第18 章 启动",
+          "path": "/第三部分 主题/第18 章 启动.md"
+        },
+        {
+          "items": [],
+          "text": "第19章 定义资源",
+          "path": "/第三部分 主题/第19章 定义资源.md"
+        },
+        {
+          "items": [],
+          "text": "第20章 定义客户端",
+          "path": "/第三部分 主题/第20章 定义客户端.md"
+        },
+        {
+          "items": [],
+          "text": "第21章 登录",
+          "path": "/第三部分 主题/第21章 登录.md"
+        },
+        {
+          "items": [],
+          "text": "第22章 使用外部身份提供商登录",
+          "path": "/第三部分 主题/第22章 使用外部身份提供商登录.md"
+        },
+        {
+          "items": [],
+          "text": "第23章 Windows身份验证",
+          "path": "/第三部分 主题/第23章 Windows身份验证.md"
+        },
+        {
+          "items": [],
+          "text": "第24章 退出",
+          "path": "/第三部分 主题/第24章 退出.md"
+        },
+        {
+          "items": [],
+          "text": "第25章 退出外部身份提供商",
+          "path": "/第三部分 主题/第25章 退出外部身份提供商.md"
+        },
+        {
+          "items": [],
+          "text": "第26章 联合注销",
+          "path": "/第三部分 主题/第26章 联合注销.md"
+        },
+        {
+          "items": [],
+          "text": "第27章 联合网关",
+          "path": "/第三部分 主题/第27章 联合网关.md"
+        },
+        {
+          "items": [],
+          "text": "第28章 确认(Consent)",
+          "path": "/第三部分 主题/第28章 确认(Consent).md"
+        },
+        {
+          "items": [],
+          "text": "第29章 保护API",
+          "path": "/第三部分 主题/第29章 保护API.md"
+        },
+        {
+          "items": [],
+          "text": "第30章 部署",
+          "path": "/第三部分 主题/第30章 部署.md"
+        },
+        {
+          "items": [],
+          "text": "第31章 日志",
+          "path": "/第三部分 主题/第31章 日志.md"
+        },
+        {
+          "items": [],
+          "text": "第32章 事件",
+          "path": "/第三部分 主题/第32章 事件.md"
+        },
+        {
+          "items": [],
+          "text": "第33章 密码学(Cryptography)，密钥(Keys)和HTTPS",
+          "path": "/第三部分 主题/第33章 密码学(Cryptography)，密钥(Keys)和HTTPS.md"
+        },
+        {
+          "items": [],
+          "text": "第34章 授予类型",
+          "path": "/第三部分 主题/第34章 授予类型.md"
+        },
+        {
+          "items": [],
+          "text": "第35章 秘密(secrets)",
+          "path": "/第三部分 主题/第35章 秘密(secrets).md"
+        },
+        {
+          "items": [],
+          "text": "第36章 扩展授权",
+          "path": "/第三部分 主题/第36章 扩展授权.md"
+        },
+        {
+          "items": [],
+          "text": "第37章 资源所有者密码验证(Resource Owner Password Validation)",
+          "path": "/第三部分 主题/第37章 资源所有者密码验证(Resource Owner Password Validation).md"
+        },
+        {
+          "items": [],
+          "text": "第38章 刷新令牌",
+          "path": "/第三部分 主题/第38章 刷新令牌.md"
+        },
+        {
+          "items": [],
+          "text": "第39章 引用令牌",
+          "path": "/第三部分 主题/第39章 引用令牌.md"
+        },
+        {
+          "items": [],
+          "text": "第40章 自定义令牌请求验证和发布",
+          "path": "/第三部分 主题/第40章 自定义令牌请求验证和发布.md"
+        },
+        {
+          "items": [],
+          "text": "第41章 CORS",
+          "path": "/第三部分 主题/第41章 CORS.md"
+        },
+        {
+          "items": [],
+          "text": "第42章 发现(discovery)",
+          "path": "/第三部分 主题/第42章 发现(discovery).md"
+        },
+        {
+          "items": [],
+          "text": "第43章 添加更多API端点",
+          "path": "/第三部分 主题/第43章 添加更多API端点.md"
+        },
+        {
+          "items": [],
+          "text": "第44章 添加新协议",
+          "path": "/第三部分 主题/第44章 添加新协议.md"
+        },
+        {
+          "items": [],
+          "text": "第45章 工具",
+          "path": "/第三部分 主题/第45章 工具.md"
+        }
+      ],
+      "text": "第三部分 主题"
+    },
+    {
+      "items": [
+        {
+          "items": [],
+          "text": "第10章 使用密码保护API",
+          "path": "/第二部分 快速入门/第10章 使用密码保护API.md"
+        },
+        {
+          "items": [],
+          "text": "第11章 使用OpenID Connect添加用户身份验证",
+          "path": "/第二部分 快速入门/第11章 使用OpenID Connect添加用户身份验证.md"
+        },
+        {
+          "items": [],
+          "text": "第12章 添加对外部认证的支持",
+          "path": "/第二部分 快速入门/第12章 添加对外部认证的支持.md"
+        },
+        {
+          "items": [],
+          "text": "第13章 切换到混合流并添加API访问",
+          "path": "/第二部分 快速入门/第13章 切换到混合流并添加API访问.md"
+        },
+        {
+          "items": [],
+          "text": "第14章 添加JavaScript客户端",
+          "path": "/第二部分 快速入门/第14章 添加JavaScript客户端.md"
+        },
+        {
+          "items": [],
+          "text": "第15章 使用EntityFramework Core进行配置和操作数据",
+          "path": "/第二部分 快速入门/第15章 使用EntityFramework Core进行配置和操作数据.md"
+        },
+        {
+          "items": [],
+          "text": "第16章 使用ASP.NET Core Identity",
+          "path": "/第二部分 快速入门/第16章 使用ASP.NET Core Identity.md"
+        },
+        {
+          "items": [],
+          "text": "第17章 社区快速入门和模板",
+          "path": "/第二部分 快速入门/第17章 社区快速入门和模板.md"
+        },
+        {
+          "items": [],
+          "text": "第8章 概述",
+          "path": "/第二部分 快速入门/第8章 概述.md"
+        },
+        {
+          "items": [],
+          "text": "第9章 使用客户端凭据保护API",
+          "path": "/第二部分 快速入门/第9章 使用客户端凭据保护API.md"
+        }
+      ],
+      "text": "第二部分 快速入门"
+    },
+    {
+      "items": [
+        {
+          "items": [],
+          "text": "第54章 身份资源",
+          "path": "/第五部分 参考/第54章 身份资源.md"
+        },
+        {
+          "items": [],
+          "text": "第55章  API资源",
+          "path": "/第五部分 参考/第55章  API资源.md"
+        },
+        {
+          "items": [],
+          "text": "第56章 Client",
+          "path": "/第五部分 参考/第56章 Client.md"
+        },
+        {
+          "items": [],
+          "text": "第57章 GrantValidationResult",
+          "path": "/第五部分 参考/第57章 GrantValidationResult.md"
+        },
+        {
+          "items": [],
+          "text": "第58章 Profile Service",
+          "path": "/第五部分 参考/第58章 Profile Service.md"
+        },
+        {
+          "items": [],
+          "text": "第59章 IdentityServer交互服务",
+          "path": "/第五部分 参考/第59章 IdentityServer交互服务.md"
+        },
+        {
+          "items": [],
+          "text": "第61章 IdentityServer Options",
+          "path": "/第五部分 参考/第61章 IdentityServer Options.md"
+        }
+      ],
+      "text": "第五部分 参考"
+    },
+    {
+      "items": [
+        {
+          "items": [],
+          "text": "第53章 结束会话端点(End Session Endpoint)",
+          "path": "/第四部分 端点/第53章 结束会话端点(End Session Endpoint).md"
+        }
+      ],
+      "text": "第四部分 端点"
+    }
+  ]
 }
